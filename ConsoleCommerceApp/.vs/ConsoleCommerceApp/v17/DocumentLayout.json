@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E62D5B6-93B4-48DA-AAC6-B07F6DA27B9A}|Core\\Core.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E62D5B6-93B4-48DA-AAC6-B07F6DA27B9A}|Core\\Core.csproj|solutionrelative:core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B8DC09-F3FE-441C-B91B-73AACE267DFF}|Data\\Data.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B8DC09-F3FE-441C-B91B-73AACE267DFF}|Data\\Data.csproj|solutionrelative:data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\application\\services\\concrete\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\application\\services\\concrete\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\application\\services\\concrete\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38718844-FC8C-44EE-8326-F596E7C2BC0F}|Application\\Application.csproj|solutionrelative:application\\services\\concrete\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F04AF27-9438-48AB-A43B-0EDD84892051}|Presentation\\Presentation.csproj|c:\\users\\user\\desktop\\mini-project\\consolecommerceapp\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F04AF27-9438-48AB-A43B-0EDD84892051}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Core\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:01:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:01:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAwIYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:46:00.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\AdminService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\AdminService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\AdminService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\AdminService.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAowL4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:45:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\SellerService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\SellerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\SellerService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\SellerService.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:11:15.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Concrete\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mini-Project\\ConsoleCommerceApp\\Application\\Services\\Concrete\\CustomerService.cs",
+              "RelativeToolTip": "Application\\Services\\Concrete\\CustomerService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAWwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:44:46.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
